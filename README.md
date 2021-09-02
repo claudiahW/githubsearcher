@@ -1,6 +1,20 @@
 # GithubSearch
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
+This is the second Independent Project for Moringa Core on .This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
+
+## Description
+githubsearch is a web application that uses the Github API to perform searches on Github and find the results.
+
+## Features
+1.Uses the Github API to perform searches on Github,and display the results to the users.
+## Known Bugs
+There are no known bugs.Kindly contact me in the event you find one.
+## Technologies used
+The app is built using Angular,HTML,Bootstrap.
+The website uses components,custom directives,custom pipes.
+
+## Contributors
+.Claudiah Wanjiru
 
 ## Development server
 
@@ -22,6 +36,32 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
+## Contact Information
+murungiclaud@gmail.com
+
+
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## LICENSE 
+# MIT License
+Copyright (c) 2021 <ClaudiahW>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
