@@ -12,16 +12,11 @@ export class GhserviceService {
     this.username = 'claudiahW'
    }
    getUser(username) {
-    return this.http.get("https://api.github.com/users/"+ username +"?access_token=" + environment. apiUrl)
+    return this.http.get("https://api.github.com/users/"+ username +"?access_token=" + environment.apiUrl)
     .pipe(((response: any) => response));
   }
   getRepos(username) {
     return this.http.get("https://api.github.com/users/"+ username + "/repos?access_token=" + environment.apiUrl)
     .pipe(((response: any) => response));
 }
-// updateUser(username: string) {
-//   this.username = username;
-// }
 }
-//  return this.http.get("https://api.github.com/users/"+ username +"?access_token=" + environment. apiUrl)
-//     .pipe(((response: any) => response));
