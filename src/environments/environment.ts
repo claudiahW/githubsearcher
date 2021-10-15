@@ -1,4 +1,8 @@
+
+
 export const environment = {
-  production: true,
+  production: false,
   apiUrl:"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"
+
 };
+
